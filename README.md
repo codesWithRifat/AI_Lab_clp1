@@ -42,7 +42,7 @@
 <h2 id="odd-even">Write a python program to find the sum of odd and even numbers from a set of numbers.</h2>
 <p>This program calculates the sum of odd and even numbers from a given set of numbers.</p>
 <p><strong>Example Output:</strong></p>
-<pre>Sum of even numbers: 20
+<pre>Sum of even numbers: 20 </pre>
 <h2 id="smallest-number">Write a python program to find the smallest number from a set of numbers.</h2>
 <p>This program identifies the smallest number from a given set of numbers.</p>
 <pre>Smallest number: 3</pre>
