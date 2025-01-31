@@ -1,16 +1,16 @@
-# AI_Lab_clp1
+<h1 style="text-align=center"> AI_Lab_clp1 </h1>
 <h2>Table of Contents</h2>
 <ul>
     <li><a href="#odd-even">Sum of Odd and Even Numbers</a></li>
     <li><a href="#smallest-number">Find Smallest Number</a></li>
-    <li><a href="#sum-divisible">Sum of Numbers Divisible by 3 but Not by 5</a></li>
-    <li><a href="#second-highest">Second Highest Number</a></li>
-    <li><a href="#factorial">Factorial using For Loop</a></li>
-    <li><a href="#fibonacci">Fibonacci Series</a></li>
-    <li><a href="#largest-number">Largest Number Between Two Numbers</a></li>
-    <li><a href="#sum-parameters">Sum of Numbers Passed as Parameters</a></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
 </ul>
-    <table border="1">
+    <table border="1" align="center">
         <tr>
             <th>Task</th>
             <th>File Name</th>
@@ -20,43 +20,39 @@
             <td><a href="sumofOddEven.py">sumofOddEven</a></td>
         </tr>
         <tr>
-            <td>Row 2, Col 1</td>
-            <td>Row 2, Col 2</td>
+            <td><a href="#smallest-number">Find Smallest Number</a></td>
+            <td><a href="smallest.py">smallest</a></td>
         </tr>
         <tr>
-            <td>Row 3, Col 1</td>
-            <td>Row 3, Col 2</td>
+            <td><a href="#sum-divisible">Sum of Numbers Divisible by 3 but Not by 5</a></td>
+            <td><a href="sum&Div.py">sum&Div</a></td>
         </tr>
         <tr>
-            <td>Row 4, Col 1</td>
-            <td>Row 4, Col 2</td>
+            <td><a href="#second-highest">Second Highest Number</a></td>
+            <td><a href="high2nd.py">high2nd</a></td>
         </tr>
         <tr>
-            <td>Row 5, Col 1</td>
-            <td>Row 5, Col 2</td>
+            <td><a href="#factorial">Factorial using For Loop</a></td>
+            <td><a href="factorial.py">Factorial</a></td>
         </tr>
         <tr>
-            <td>Row 6, Col 1</td>
-            <td>Row 6, Col 2</td>
+            <td><a href="#fibonacci">Fibonacci Series</a></td>
+            <td><a href="fibonacci.py">fibonacci</a></td>
         </tr>
         <tr>
-            <td>Row 7, Col 1</td>
-            <td>Row 7, Col 2</td>
+            <td><a href="#largest-number">Largest Number Between Two Numbers</a></td>
+            <td><a href="largest.py">largest</a></td>
         </tr>
         <tr>
-            <td>Row 8, Col 1</td>
-            <td>Row 8, Col 2</td>
-        </tr>
-        <tr>
-            <td>Row 9, Col 1</td>
-            <td>Row 9, Col 2</td>
+            <td><a href="#sum-parameters">Sum of Numbers Passed as Parameters</a></td>
+            <td><a href="sum.py">sum</a></td>
         </tr>
     </table>
-<h2 id="odd-even">Sum of Odd and Even Numbers</h2>
+<h2 id="odd-even">Write a python program to find the sum of odd and even numbers from a set of numbers.</h2>
 <p>This program calculates the sum of odd and even numbers from a given set of numbers.</p>
 <p><strong>Example Output:</strong></p>
 <pre>Sum of even numbers: 20
-<h2 id="smallest-number">Find Smallest Number</h2>
+<h2 id="smallest-number">Write a python program to find the smallest number from a set of numbers.</h2>
 <p>This program identifies the smallest number from a given set of numbers.</p>
 <pre>Smallest number: 3</pre>
 
