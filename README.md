@@ -1,15 +1,5 @@
 <h1 style="text-align=center"> AI_Lab_clp1 </h1>
 <h2>Table of Contents</h2>
-<ul>
-    <li><a href="#odd-even">Sum of Odd and Even Numbers</a></li>
-    <li><a href="#smallest-number">Find Smallest Number</a></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
     <table border="1" align="center">
         <tr>
             <th>Task</th>
@@ -48,6 +38,7 @@
             <td><a href="sum.py">sum</a></td>
         </tr>
     </table>
+<h2>Task Description and Output </h2>    
 <h2 id="odd-even">Write a python program to find the sum of odd and even numbers from a set of numbers.</h2>
 <p>This program calculates the sum of odd and even numbers from a given set of numbers.</p>
 <p><strong>Example Output:</strong></p>
@@ -79,16 +70,3 @@
 <h2 id="sum-parameters">Sum of Numbers Passed as Parameters</h2>
 <p>This program calculates the sum of numbers passed as function parameters.</p>
 <pre>Sum: 150</pre>
-
-<h2>Screenshots</h2>
-<p>(Add output screenshots here)</p>
-
-<h2>How to Run</h2>
-<ol>
-    <li>Clone this repository.</li>
-    <li>Run the Python scripts individually using <code>python filename.py</code>.</li>
-    <li>Modify the input values as needed for testing different cases.</li>
-</ol>
-
-<h2>License</h2>
-<p>This repository is open-source. Feel free to modify and distribute.</p>
