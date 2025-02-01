@@ -56,32 +56,31 @@
         <dd>
             <p>This program calculates the sum of numbers between 50 and 100 that are divisible by 3 but not by 5.</p>
             <pre>Sum: 798</pre>
-            <img src="screenshots/sum_divisible.png" alt="Output Screenshot">
+            <img src="output/task3.png" alt="Output Screenshot">
         </dd>
         <dt><h4 id="second-highest">Second Highest Number</h4></dt>
         <dd>
             <p>This program finds the second highest number from a given set of numbers.</p>
-            <pre>Second highest number: 45</pre>
-            <img src="screenshots/second_highest.png" alt="Output Screenshot">
+            <img src="output/task4.png" alt="Output Screenshot">
         </dd>
         <dt><h4 id="factorial">Factorial using For Loop</h4></dt>
         <dd>
             <p>This program calculates the factorial of a given number using a for loop.</p>
-            <img src="screenshots/factorial.png" alt="Output Screenshot">
+            <img src="output/task5.png" alt="Output Screenshot">
         </dd>
         <dt><h4 id="fibonacci">Fibonacci Series</h4></dt>
         <dd>
             <p>This program generates the Fibonacci series up to a specified number of terms.</p>
-            <img src="screenshots/fibonacci.png" alt="Output Screenshot">
+            <img src="output/task6.png" alt="Output Screenshot">
         </dd>
         <dt><h4 id="largest-number">Largest Number Between Two Numbers</h4></dt>
         <dd>
             <p>This program determines the largest number between two numbers using a function.</p>
-            <img src="screenshots/largest_number.png" alt="Output Screenshot">
+            <img src="output/task7.png" alt="Output Screenshot">
         </dd>
         <dt><h4 id="sum-parameters">Sum of Numbers Passed as Parameters</h4></dt>
         <dd>
             <p>This program calculates the sum of numbers passed as function parameters.</p>
-            <img src="screenshots/sum_parameters.png" alt="Output Screenshot">
+            <img src="output/task8.png.png" alt="Output Screenshot">
         </dd>
     </dl>
