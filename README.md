@@ -55,30 +55,29 @@
         <dt><h4 id="sum-divisible">3. Sum of Numbers Divisible by 3 but Not by 5</h4></dt>
         <dd>
             <p>This program calculates the sum of numbers between 50 and 100 that are divisible by 3 but not by 5.</p>
-            <pre>Sum: 798</pre>
             <img src="output/task3.png" alt="Output Screenshot">
         </dd>
-        <dt><h4 id="second-highest">Second Highest Number</h4></dt>
+        <dt><h4 id="second-highest">4. Second Highest Number</h4></dt>
         <dd>
             <p>This program finds the second highest number from a given set of numbers.</p>
             <img src="output/task4.png" alt="Output Screenshot">
         </dd>
-        <dt><h4 id="factorial">Factorial using For Loop</h4></dt>
+        <dt><h4 id="factorial">5. Factorial using For Loop</h4></dt>
         <dd>
             <p>This program calculates the factorial of a given number using a for loop.</p>
             <img src="output/task5.png" alt="Output Screenshot">
         </dd>
-        <dt><h4 id="fibonacci">Fibonacci Series</h4></dt>
+        <dt><h4 id="fibonacci">6. Fibonacci Series</h4></dt>
         <dd>
             <p>This program generates the Fibonacci series up to a specified number of terms.</p>
             <img src="output/task6.png" alt="Output Screenshot">
         </dd>
-        <dt><h4 id="largest-number">Largest Number Between Two Numbers</h4></dt>
+        <dt><h4 id="largest-number">7. Largest Number Between Two Numbers</h4></dt>
         <dd>
             <p>This program determines the largest number between two numbers using a function.</p>
             <img src="output/task7.png" alt="Output Screenshot">
         </dd>
-        <dt><h4 id="sum-parameters">Sum of Numbers Passed as Parameters</h4></dt>
+        <dt><h4 id="sum-parameters">8. Sum of Numbers Passed as Parameters</h4></dt>
         <dd>
             <p>This program calculates the sum of numbers passed as function parameters.</p>
             <img src="output/task8.png" alt="Output Screenshot">
