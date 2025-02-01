@@ -81,6 +81,6 @@
         <dt><h4 id="sum-parameters">Sum of Numbers Passed as Parameters</h4></dt>
         <dd>
             <p>This program calculates the sum of numbers passed as function parameters.</p>
-            <img src="output/task8.png.png" alt="Output Screenshot">
+            <img src="output/task8.png" alt="Output Screenshot">
         </dd>
     </dl>
